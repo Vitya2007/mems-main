@@ -13,4 +13,4 @@ if __name__ == '__main__':
     plt.show()
  # 1 comit
  # 2 comit
- 
+ # 1 comit task1 
